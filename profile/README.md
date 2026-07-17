@@ -13,5 +13,5 @@
 
 
 **Lunar Resource Exploration:**
-* [**He3-Seeker: Robotic Information Planning for Lunar Helium-3 Distribution Mapping**](https://arxiv.org/pdf/2606.28746), arXiv 2026
+* [**He3-Seeker: Robotic Information Planning for Lunar Helium-3 Distribution Mapping**](https://arxiv.org/pdf/2606.28746), arXiv 2026. [[Code](https://github.com/OpenSpace-Lab/He3-Seeker)]
 
