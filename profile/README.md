@@ -8,7 +8,7 @@
 
 **Space Robotics Foundation Models:**
 
-* **[SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks](https://arxiv.org/pdf/2606.27807) **,ICML 2026
+* [**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**](https://arxiv.org/pdf/2606.27807),ICML 2026
 
 
 
