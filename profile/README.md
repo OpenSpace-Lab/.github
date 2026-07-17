@@ -1,6 +1,6 @@
 # OpenSpace Lab
 
-**OpenSpace Lab** (China), led by **[Prof. Long Chen](https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=zh-CN)**, focuses on **Space AI, Space Robotics**, and **Space Resource Development**, actively promoting research, exchange, and application in the field.
+**OpenSpace Lab** (China), led by **[Prof.Long Chen](https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=zh-CN)**, focuses on **Space AI, Space Robotics**, and **Space Resource Development**, actively promoting research, exchange, and application in the field.
 
 ---
 
@@ -8,7 +8,7 @@
 
 **Space Robotics Foundation Models:**
 
-* [**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**](https://arxiv.org/pdf/2606.27807),ICML 2026
+* [**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**](https://arxiv.org/pdf/2606.27807), ICML 2026
 
 
 
