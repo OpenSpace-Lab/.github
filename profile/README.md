@@ -19,4 +19,4 @@
 * **Conference Activities:** Organized the Special Session on *"Robotics in Space Exploration"* at IROS 2026.
 
 ### 🇨🇳 National Initiatives & Impact
-* **重大问题发布**：提议的[“面向深空资源开发的自主采矿关键科学与技术问题研究”成功入选中国科协 2025 年“十大产业技术问题”](https://www.cast.org.cn/xw/MTBD/art/2025/art_b6148e08202a42b783f7c0a0feb6f84a.html)。
+* **重大问题发布**: 提议的[“面向深空资源开发的自主采矿关键科学与技术问题研究”成功入选中国科协 2025 年“十大产业技术问题”](https://www.cast.org.cn/xw/MTBD/art/2025/art_b6148e08202a42b783f7c0a0feb6f84a.html).
