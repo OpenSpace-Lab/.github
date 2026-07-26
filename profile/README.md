@@ -1,6 +1,6 @@
 # OpenSpace Lab
 
-**OpenSpace Lab** (China), led by **[Prof.Long Chen](https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=zh-CN)**, focuses on **Space AI, Space Robotics**, and **Space Resource Development**, actively promoting research, exchange, and application in the field.
+**OpenSpace Lab** (China), led by **[Prof. Long Chen](https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=zh-CN)**, focuses on **Space AI, Space Robotics**, and **Space Resource Development**, actively promoting research, exchange, and application in the field.
 
 ---
 
