@@ -12,7 +12,7 @@
 
 **Space Resource Exploration and Exploitation:**
 * [**Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction**](https://arxiv.org/pdf/2608.21358), arXiv 2026. [[Project](https://github.com/OpenSpace-Lab/Space-Mining-with-Robotics-List)]
-* [**He3-Seeker: Robotic Information Planning for Lunar Helium-3 Distribution Mapping**](https://arxiv.org/pdf/2606.28746), iSpaRo 2026. [[Code](https://github.com/OpenSpace-Lab/He3-Seeker)]
+* [**He3-Seeker: Robotic Information Planning for Lunar Helium-3 Distribution Mapping**](https://arxiv.org/pdf/2606.28746), iSpaRo 2026. [[Code](https://github.com/OpenSpace-Lab/He3-Seeker)] [[Project](https://openspace-lab.github.io/He3-Seeker/)]
 * **OS-Rover: An Open-Source Planetary Rover for Resource Prospecting with Drill-Assisted Sampling and Multimodal Teleoperation**, iSpaRo 2026. [[Code](https://github.com/OpenSpace-Lab/OS-Rover)]
 * [**Lunar Helium-3 Mining: System Architecture and Extraction-Separation Technologies**](https://www.ijics.cn/article/385), IJICS 2026
 
